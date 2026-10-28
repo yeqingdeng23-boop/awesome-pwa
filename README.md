@@ -265,7 +265,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [ThreeFour](https://threefour.app): Run multi-step procedures one step at a time; it remembers where you stopped, even days later. Sequential or branching. Works offline, no account, data stays on your device. Free.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
-* [ToolJovia Pet Soul Journey](https://tooljovia.com/pet-soul/): Free PWA for editing pet memorial letters and photo keepsake cards locally, with TXT and PNG export; no account required.
+* [Find Your Pet's Soul](https://tooljovia.com/pet-soul/): Free PWA for editing pet memorial letters and photo keepsake cards locally, with TXT and PNG export; no account required.
 * [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
