@@ -238,6 +238,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Calculator](https://calculator-app-tau.vercel.app/): A calculator app with theme switcher
 * [ChipBreaker](https://chipbreaker.netlify.app/): Offline speeds & feeds and tap drill calculator for machinists — eight shop tools, zero internet. No account, no subscription.
 * [Emoji Log](https://emojilog.rosano.ca): Personal tracker
+* [Find Your Pet's Soul](https://tooljovia.com/pet-soul/): Free PWA for editing pet memorial letters and photo keepsake cards locally, with TXT and PNG export; no account required.
 * [Google Drive](https://drive.google.com/): File storage.
 * [Google Photos](https://photos.google.com/): Photo management.
 * [GPA Calculator](https://gpacalculator.memorymaps.io/): Generate animated artwork from your unique GPA inputs.
@@ -265,7 +266,6 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [TaleForge](https://www.tale-forge.com/): Creative writing PWA with book, manga, and screenplay editors. Works offline with service worker caching.
 * [ThreeFour](https://threefour.app): Run multi-step procedures one step at a time; it remembers where you stopped, even days later. Sequential or branching. Works offline, no account, data stays on your device. Free.
 * [Todoly](https://t4p4n.github.io/todoly/): A Simple ToDo PWA
-* [Find Your Pet's Soul](https://tooljovia.com/pet-soul/): Free PWA for editing pet memorial letters and photo keepsake cards locally, with TXT and PNG export; no account required.
 * [UniStyle](https://unistyle.io): Convert plain text into 20+ Unicode styles (bold, italic, script, monospace) that paste anywhere Markdown is stripped. Free, no signup, installable on desktop and Android.
 * [Vizua](https://vizua.io/): Free browser-based image tools — compress, resize, convert (WebP, AVIF, PNG, JPEG), remove background, upscale, OCR. 91 tools, all client-side via WebAssembly. 16 languages.
 * [Wormhole](https://wormhole.app/): Share files with end-to-end encryption.
